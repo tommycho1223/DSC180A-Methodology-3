@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-# Tommy Li
-# wal016@ucsd.edu
+# Tommy Li and Samuel Cho
